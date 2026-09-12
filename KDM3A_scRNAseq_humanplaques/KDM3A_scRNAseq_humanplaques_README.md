@@ -14,7 +14,7 @@ scRNA-seq dataset, using a pre-integrated Seurat object.
 
 | Figure | Script | Notes |
 |---|---|---|
-| Fig Xa (UMAP + feature plot + dot plot) | `01_KDM3A_expression/scAnalysis.R` | combined 3-panel figure |
+| Extended data Fig 1-c (UMAP + feature plot + dot plot) | `01_KDM3A_expression/scAnalysis.R` | combined 3-panel figure |
 
 ## Notes
 
