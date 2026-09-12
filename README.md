@@ -19,7 +19,10 @@ Each folder contains its own README describing the pipeline order and inputs/out
 
 ## Raw data
 
-Raw sequencing data are deposited at GEO under accession [add accession].
+All public datasets utilized in the current study are available in the Gene Expression Omnibus:  
+GSE70619. RNA-, ChIP-, and ATAC-seq data are available through Zenodo (DOIs:  10.5281/zenodo.19566015, 10.5281/zenodo.19567228). RNA-seq data and associated clinical metadata  
+from part of the Athero-Express (AE) cohort are available via DataverseNL (DOIs:  https://doi.org/10.34894/D1MDKL, https://doi.org/10.34894/TYHGEF,  
+https://doi.org/10.34894/4IKE3T ). Due to data governance and privacy regulations, access to private  patient data is controlled and can be requested through DataverseNL.
 
 ## External pipelines used
 
