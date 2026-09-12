@@ -24,9 +24,9 @@ KDM3A loss affects chromatin accessibility at its own binding sites.
 
 | Figure | Script | Notes |
 |---|---|---|
-| Fig Xa (box plots + stats) | `02_signal_analysis/ATAC_analysis.R` | ATAC signal at KDM3A peaks, WT vs KO |
-| Fig Xb (heatmap) | `03_signal_visualization/atac_deeptools_heatmap_WTKO.sh` | 4 conditions, 3 peak sets |
-| Fig Xc (trackshot) | `03_signal_visualization/ATAC_signal_ifih1.R` | IFIH1 locus |
+| Fig 2e (box plots + stats) | `02_signal_analysis/ATAC_analysis.R` | ATAC signal at KDM3A peaks, WT vs KO |
+| Extended data Fig 2c (heatmap) | `03_signal_visualization/atac_deeptools_heatmap_WTKO.sh` | 4 conditions, 3 peak sets |
+| Fig 2g (trackshot) | `03_signal_visualization/ATAC_signal_ifih1.R` | ifih1 locus |
 
 ## Notes
 
