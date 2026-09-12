@@ -22,7 +22,8 @@ near genes downregulated upon KDM3A loss, to assess whether reduced H3K27ac
 
 | Figure | Script | Notes |
 |---|---|---|
-| Fig Xa (box plots + stats) | `02_signal_analysis/H3K27ac_analysis.R` | H3K27ac near downregulated genes, WT vs KO |
+| Extended data Fig 2e (box plots + stats) | `02_signal_analysis/H3K27ac_analysis.R` | H3K27ac near downregulated genes, WT vs KO |
+| Fig 2g (trackshot) | `02_signal_visualization/H3K27ac_signal_ifih1.R` | ifih1 locus |
 
 ## Known issue to resolve before upload
 
