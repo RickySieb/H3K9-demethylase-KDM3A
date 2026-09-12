@@ -18,7 +18,7 @@ RNA Pol II ChIP-seq used to assess transcriptional activity at KDM3A target loci
 
 | Figure | Script | Notes |
 |---|---|---|
-| Fig Xa | *(add once the visualization script for this experiment is finalized)* | |
+| Fig 2g | *(add once the visualization script for this experiment is finalized)* | |
 
 ## Notes
 
