@@ -2,6 +2,9 @@
 
 Code accompanying [paper title], [journal], [year]. DOI: [add once available]
 
+# Abstract
+Macrophages drive atherosclerosis through inflammatory activation programs shaped by metabolic and epigenetic reprogramming. H3K9 methylation enforces heterochromatin states and represses transcription, whereas removal of this histone modification creates transcriptionally permissive chromatin. Here, we identified KDM3A-mediated H3K9 demethylation to enhance chromatin accessibility at interferon (IFN) signaling loci, thereby promoting IFN production and downstream IFN-dependent transcriptional and chemokine responses. In a mouse model of atherosclerosis, hematopoietic Kdm3a deficiency reduces lesion size, necrotic core formation, and neutrophil recruitment. Mechanistically, Kdm3a-deficient macrophages show impaired chemokine secretion and reduced neutrophil recruitment both in vitro and in vivo. In primary human macrophages, KDM3A knockdown suppressed IFN responses, consistently, KDM3A-dependent gene signatures were enriched in IFN-inducible macrophages within human atherosclerotic plaques and computational modeling predicted a shift toward more stable plaque phenotypes upon KDM3A inhibition. Together, these findings establish KDM3A as an epigenetic regulator that sustains IFN-driven macrophage activation and promotes progression of atherosclerosis, nominating KDM3A as a potential target for selectively modulating IFN-dependent inflammation. 
+
 ## Repository structure
 
 - `KDM3A_HA_chipseq/` — KDM3A-HA ChIP-seq: mapping, peak calling, peak annotation, signal visualization
